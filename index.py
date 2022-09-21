@@ -62,7 +62,7 @@ float() -> floating numbers
 # for i in range(1, 13):
 #     print(f"6 x {i} = {6 * i}")
 
-# count = 1
+# count = 0
 # while True:
 #     count += 1
 
@@ -72,23 +72,8 @@ float() -> floating numbers
 #     print(count)
 
 
-import os
+# import os
 
-for i in range(15):
-    os.system("start")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# for i in range(15):
+#     os.system("start")
 
